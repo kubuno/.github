@@ -49,6 +49,7 @@ The **[core](https://github.com/kubuno/core)** is the platform's operating syste
 | 🎨 **PaintSharp** | [kubuno/paintsharp](https://github.com/kubuno/paintsharp) | Creative suite (raster, vector, 3D, video) |
 | 💬 **Chat** | [kubuno/chat](https://github.com/kubuno/chat) | Messaging |
 | 👥 **Contacts** | [kubuno/contacts](https://github.com/kubuno/contacts) | Address book (CardDAV) |
+| 🗣️ **Forum** | [kubuno/forum](https://github.com/kubuno/forum) | Discussion boards (categories, forums, topics, posts) |
 | ✅ **Tasks** | [kubuno/tasks](https://github.com/kubuno/tasks) | Tasks & Kanban boards |
 | 🗒️ **Notes** | [kubuno/notes](https://github.com/kubuno/notes) | Notes |
 | 🗺️ **Maps** | [kubuno/maps](https://github.com/kubuno/maps) | Maps |
@@ -61,7 +62,7 @@ The **[core](https://github.com/kubuno/core)** is the platform's operating syste
 
 ## 🚀 Get Kubuno
 
-Start with the **[core](https://github.com/kubuno/core)** (requirements: Rust ≥ 1.82, Node.js ≥ 20, PostgreSQL 16), then add the apps you want — each ships a `.deb` package.
+Start with the **[core](https://github.com/kubuno/core)** (requirements: Rust ≥ 1.82, Node.js ≥ 24, PostgreSQL 16), then add the apps you want — each ships a `.deb` package.
 
 ```bash
 git clone https://github.com/kubuno/core && cd core
