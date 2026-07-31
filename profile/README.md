@@ -85,7 +85,7 @@ Twenty apps and counting — grouped by what they're for:
 |---|---|---|
 | 🔑 **KeeStore** | [keestore](https://github.com/kubuno/keestore) | Password manager (KDBX) |
 | 🗺️ **Maps** | [maps](https://github.com/kubuno/maps) | Maps |
-| 🤖 **Jarvis** | [jarvis](https://github.com/kubuno/jarvis) | AI assistant |
+| 🤖 **Assistant** | [assistant](https://github.com/kubuno/assistant) | AI assistant |
 
 ## 🏗️ Architecture
 
