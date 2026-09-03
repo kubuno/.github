@@ -1,6 +1,8 @@
 <div align="center">
 
-# ☁️ Kubuno
+<img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/kubuno.svg" width="120" height="120" alt="">
+
+# Kubuno
 
 **A safe home for all your data — your cloud, your rules.**
 
@@ -50,42 +52,42 @@ Twenty apps and counting — grouped by what they're for:
 ### 📁 Productivity & office
 | App | Repo | What it does |
 |---|---|---|
-| 📝 **Office** | [office](https://github.com/kubuno/office) | Full suite — **8 editors**: Documents, Spreadsheets, Presentations, Diagrams, Data (BI), Maths (LaTeX), Script, Whiteboard |
-| 🗄️ **Drive** | [drive](https://github.com/kubuno/drive) | File storage, sharing, search, remote mounts |
-| 📅 **Calendar** | [calendar](https://github.com/kubuno/calendar) | Calendars, events, CalDAV |
-| ✅ **Tasks** | [tasks](https://github.com/kubuno/tasks) | Tasks & Kanban boards (CalDAV VTODO) |
-| 🗒️ **Notes** | [notes](https://github.com/kubuno/notes) | Rich notes |
-| 👥 **Contacts** | [contacts](https://github.com/kubuno/contacts) | Address book (CardDAV) |
-| 📋 **Forms** | [forms](https://github.com/kubuno/forms) | Forms & surveys |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/office.svg" width="20" height="20" alt=""> **Office** | [office](https://github.com/kubuno/office) | Full suite — **9 editors**: Documents, Spreadsheets, Presentations, Projects, Diagrams, Data (BI), Maths (LaTeX), Script, Whiteboard |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/drive.png" width="20" height="20" alt=""> **Drive** | [drive](https://github.com/kubuno/drive) | File storage, sharing, search, remote mounts |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/calendar.png" width="20" height="20" alt=""> **Calendar** | [calendar](https://github.com/kubuno/calendar) | Calendars, events, CalDAV |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/tasks.png" width="20" height="20" alt=""> **Tasks** | [tasks](https://github.com/kubuno/tasks) | Tasks & Kanban boards (CalDAV VTODO) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/notes.png" width="20" height="20" alt=""> **Notes** | [notes](https://github.com/kubuno/notes) | Rich notes |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/contacts.png" width="20" height="20" alt=""> **Contacts** | [contacts](https://github.com/kubuno/contacts) | Address book (CardDAV) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/forms.png" width="20" height="20" alt=""> **Forms** | [forms](https://github.com/kubuno/forms) | Forms & surveys |
 
 ### 💬 Communication
 | App | Repo | What it does |
 |---|---|---|
-| ✉️ **Mail** | [mail](https://github.com/kubuno/mail) | Email client (IMAP/SMTP), Bayesian spam filter |
-| 💬 **Chat** | [chat](https://github.com/kubuno/chat) | Messaging, voice/video calls & meetings |
-| 🗣️ **Forum** | [forum](https://github.com/kubuno/forum) | Discussion boards (categories, topics, moderation) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/mail.png" width="20" height="20" alt=""> **Mail** | [mail](https://github.com/kubuno/mail) | Email client (IMAP/SMTP), Bayesian spam filter |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/chat.png" width="20" height="20" alt=""> **Chat** | [chat](https://github.com/kubuno/chat) | Messaging, voice/video calls & meetings |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/forum.png" width="20" height="20" alt=""> **Forum** | [forum](https://github.com/kubuno/forum) | Discussion boards (categories, topics, moderation) |
 
 ### 🎨 Creative & media
 | App | Repo | What it does |
 |---|---|---|
-| 🎨 **PaintSharp** | [paintsharp](https://github.com/kubuno/paintsharp) | Creative suite — **6 editors**: Layer (raster), Apex (vector), Vertex (3D), Motion (video), Keyframe (2D animation), PdfWriter |
-| 🖼️ **Photos** | [photos](https://github.com/kubuno/photos) | Photo gallery |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/paintsharp.png" width="20" height="20" alt=""> **PaintSharp** | [paintsharp](https://github.com/kubuno/paintsharp) | Creative suite — **7 editors**: Layer (raster), Apex (vector), Vertex (3D), Motion (video), Keyframe (2D animation), PdfWriter, FontEditor |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/photos.png" width="20" height="20" alt=""> **Photos** | [photos](https://github.com/kubuno/photos) | Photo gallery |
 | 🎵 **Media** | [media](https://github.com/kubuno/media) | Media library |
 
 ### 🛠️ Build & automate
 | App | Repo | What it does |
 |---|---|---|
-| 📚 **Wiki** | [wiki](https://github.com/kubuno/wiki) | Collaborative wiki, MediaWiki-inspired (wikitext, templates, categories) |
-| 🧱 **App** | [app](https://github.com/kubuno/app) | Visual **no-code** app builder (Bubble-style) |
-| 🔀 **Flow** | [flow](https://github.com/kubuno/flow) | Workflow automation (n8n / Make-style) |
-| 💻 **Code** | [code](https://github.com/kubuno/code) | Code editor |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/wiki.png" width="20" height="20" alt=""> **Wiki** | [wiki](https://github.com/kubuno/wiki) | Collaborative wiki, MediaWiki-inspired (wikitext, templates, categories) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/app.png" width="20" height="20" alt=""> **App** | [app](https://github.com/kubuno/app) | Visual **no-code** app builder (Bubble-style) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/flow.png" width="20" height="20" alt=""> **Flow** | [flow](https://github.com/kubuno/flow) | Workflow automation (n8n / Make-style) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/code.png" width="20" height="20" alt=""> **Code** | [code](https://github.com/kubuno/code) | Code editor |
 
 ### 🔧 Utilities & AI
 | App | Repo | What it does |
 |---|---|---|
-| 🔑 **KeeStore** | [keestore](https://github.com/kubuno/keestore) | Password manager (KDBX) |
-| 🗺️ **Maps** | [maps](https://github.com/kubuno/maps) | Maps |
-| 🤖 **Assistant** | [assistant](https://github.com/kubuno/assistant) | AI assistant |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/keestore.png" width="20" height="20" alt=""> **KeeStore** | [keestore](https://github.com/kubuno/keestore) | Password manager (KDBX) |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/maps.png" width="20" height="20" alt=""> **Maps** | [maps](https://github.com/kubuno/maps) | Maps |
+| <img src="https://raw.githubusercontent.com/kubuno/.github/main/profile/logos/assistant.png" width="20" height="20" alt=""> **Assistant** | [assistant](https://github.com/kubuno/assistant) | AI assistant |
 
 ## 🏗️ Architecture
 
