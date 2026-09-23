@@ -54,7 +54,7 @@ apps plug into it.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
     </tr>
@@ -79,7 +79,7 @@ packages on npm.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">App</th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
@@ -136,7 +136,7 @@ packages on npm.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">App</th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
@@ -169,7 +169,7 @@ packages on npm.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">App</th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
@@ -208,7 +208,7 @@ packages on npm.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">App</th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
@@ -247,7 +247,7 @@ packages on npm.
 <table>
   <thead>
     <tr>
-      <th width="36"></th>
+      <th width="52"></th>
       <th align="left">App</th>
       <th align="left">Repository</th>
       <th align="left">What it does</th>
